@@ -7,3 +7,9 @@ void init()
 {
   int j;
 }
+
+void process()
+{
+
+  
+}
